@@ -7,7 +7,7 @@ public class MyCalss {
 	}
 	public void testMsg()
 	{
-		System.out.println("This is Test");
+		System.out.println("This is Test msg");
 	}
 
 	public static void main(String[] args) {		
